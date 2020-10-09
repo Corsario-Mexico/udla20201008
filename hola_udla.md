@@ -3,3 +3,5 @@
 Es un placer para mi dar esta plática a los jovenes de la [Universidad de las Américas](https://www.udlap.mx/web/).
 
 ![UDLA](logo-udlap-250.png)
+
+Es importante que los mensajess que ponemos al hacer un commit nos ayuden a identificar los cambios realizados
