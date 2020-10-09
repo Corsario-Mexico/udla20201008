@@ -9,3 +9,5 @@ Siempre me ha gustado dar pláticas a jovenes motivados.
 Es importante que los mensajes que ponemos al hacer un commit nos ayuden a identificar los cambios realizados
 
 ![GIT](git.png)
+
+(l) 2020 David Sol
